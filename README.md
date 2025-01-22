@@ -1,7 +1,7 @@
 # ✨ Prepare for Concatenation! ✨
 ## 🌟 Behold! The Grand File Extravaganza 🌟
 
-🎉 **Behold!** Your project's files, united in a single, spectacular text document! This Python script, lovingly named **py-projector**, meticulously compiles the content of your files into a human-readable format, perfect for archiving, analysis, or sharing your code in a most dazzling manner!
+🎉 So, "py-projector" because it projects your project's files, united in a single, spectacular text document! This Python script, lovingly named **py-projector**, meticulously compiles the content of your files into a human-readable format, perfect for archiving, analysis, or sharing your code in a most dazzling manner! 
 
 ## 🚀 How Does the Extravaganza Unfold?
 
